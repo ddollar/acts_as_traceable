@@ -8,12 +8,12 @@ of ATLRUG.
 Example
 =======
 
-`class MyModel
+class MyModel
   
   acts_as_traceable
   
   ...
 
-end`
+end
 
 Copyright (c) 2008 David Dollar, released under the MIT license
