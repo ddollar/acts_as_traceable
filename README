@@ -1,13 +1,19 @@
 ActsAsTraceable
 ===============
 
-Introduction goes here.
+Allows for the tracing of method calls, requested at the December meeting
+of ATLRUG.
 
 
 Example
 =======
 
-Example goes here.
+`class MyModel
+  
+  acts_as_traceable
+  
+  ...
 
+end`
 
-Copyright (c) 2008 [name of plugin creator], released under the MIT license
+Copyright (c) 2008 David Dollar, released under the MIT license
